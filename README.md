@@ -4,5 +4,3 @@
 
 local copy
 
-these are the remote changes
-
