@@ -1,1 +1,6 @@
 # training-repo
+
+
+
+local copy
+
